@@ -1,3 +1,4 @@
+### Coding Skills
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=github_dark&hide_border=true&include_all_commits=true">
 </p>
@@ -8,4 +9,12 @@
   </a>
 </p>
 
+### More Stats
+![](https://komarev.com/ghpvc/?username=Astr0-G)
+
+<a href="https://github.com/Astr0-G">
+  <img align="center" src="https://streak-stats.demolab.com?user=1RB&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
+</a>
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 

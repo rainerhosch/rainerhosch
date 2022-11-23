@@ -1,6 +1,6 @@
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rb&theme=github_dark&hide_border=true&include_all_commits=true">
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=github_dark&hide_border=true&include_all_commits=true">
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">

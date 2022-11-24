@@ -11,6 +11,7 @@
 
 ### More Stats
 ![](https://komarev.com/ghpvc/?username=Astr0-G)
+
 <p align="center">
   <a href="https://github.com/Astr0-G">
     <img align="center" src="https://streak-stats.demolab.com?user=Astr0-G&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">

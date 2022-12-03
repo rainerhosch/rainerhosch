@@ -1,4 +1,4 @@
-### Coding Language
+### coding Language
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=github_dark&hide_border=true&include_all_commits=true">
 </p>
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-### More Stats
+### more stats
 ![](https://komarev.com/ghpvc/?username=Astr0-G)
 
 <p align="center">

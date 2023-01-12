@@ -3,12 +3,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=github_dark&hide_border=true&include_all_commits=true">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://api.signet.ink/entry/1/" onError="this.style.display = 'none';" alt=""/>
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,ruby,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=8" />
   </a>
-</p>
+</p> -->
 
 ### more stats
 ![](https://komarev.com/ghpvc/?username=Astr0-G)

@@ -3,9 +3,9 @@
    <i>👿 My Motto is Tech 👿</i>
   </h5>
 </p> -->
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 

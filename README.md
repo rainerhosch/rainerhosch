@@ -1,9 +1,9 @@
-<!-- <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
-<p>
+<img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
+<!-- <p>
    <h5 align="center">
    <i>👿 My Motto is Tech 👿</i>
   </h5>
-</p>
+</p> -->
 
 <p align="center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Astr0-G&theme=dark&hide_border=true" width = 500 />
@@ -11,7 +11,7 @@
 
 ##
 
-<p align="center">
+<!-- <p align="center">
   <a>
       <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=5" />
   </a>

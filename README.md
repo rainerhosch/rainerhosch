@@ -12,10 +12,12 @@
 </p>
 
 &nbsp;<div align="center">
-  [![Spotify](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/g4s1zeij2dw49xxxpj5evv4v3/)
+[![Spotify](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=000000)](https://open.spotify.com/g4s1zeij2dw49xxxpj5evv4v3/)
+
 </div>
 
 ## more stats
+
 ![](https://komarev.com/ghpvc/?username=Astr0-G)
 
 <p align="center">

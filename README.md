@@ -23,7 +23,7 @@
 
 </div align="flex">
 
-&nbsp;<div media="(prefers-color-scheme: dark)" align="center">
+&nbsp;<div media="(prefers-color-scheme: dark)" align="center" width=10>
 [![Spotify](https://cdn-icons-png.flaticon.com/512/3037/3037366.png)](https://gewang.wiki)
 
 </div align="flex">

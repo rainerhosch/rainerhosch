@@ -20,7 +20,7 @@
 </p>
 
 &nbsp;<div media="(prefers-color-scheme: dark)" align="center">
-[![GitHub-Mark-Dark ](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7)
+[![GitHub-Mark-Dark](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7)
 
 </div align="flex">
 

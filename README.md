@@ -14,9 +14,10 @@
 ![](https://komarev.com/ghpvc/?username=Astr0-G)
 
 <p align="center">
-  <a href="https://github.com/Astr0-G">
-    <img align="center" src="https://streak-stats.demolab.com?user=Astr0-G&theme=github-dark&hide_border=true&ring=4C8EDA&fire=DD7A22&dates=4C8EDA">
-  </a>
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Astr0-G&show_icons=false&theme=dark&hide_border=true" width = 400>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Astr0-G&theme=dark&hide_border=true" width = 400>
+  </p>
 </p>
 
 

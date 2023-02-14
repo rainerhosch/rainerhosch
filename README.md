@@ -24,7 +24,8 @@
 </div align="flex">
 
 &nbsp;<div media="(prefers-color-scheme: dark)" align="center">
-[know me more](https://gewang.wiki)
+[![Spotify](https://cdn-icons-png.flaticon.com/512/3037/3037366.png)](https://gewang.wiki)
 
-<a href=""><div></div></a>
+</div align="flex">
+
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>

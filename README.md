@@ -13,7 +13,6 @@
 
 <p align="center">
   <a>
-        
       <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=5" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=dark&hide_border=true&hide=javascript,css,scss,html">

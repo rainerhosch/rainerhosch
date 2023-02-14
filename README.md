@@ -1,11 +1,11 @@
-## coding Language
+## coding language
 <p align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=github_dark&hide_border=true&include_all_commits=true"> -->
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://record.gewang.wiki//entry/1/" onError="this.style.display = 'none';" alt=""/>
+      <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
     <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=8" />
   </a>
 </p>

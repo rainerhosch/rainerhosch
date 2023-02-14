@@ -12,7 +12,7 @@
 </p>
 
 &nbsp;<div align="center">
-[![Spotify](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/g4s1zeij2dw49xxxpj5evv4v3/)
+[![Spotify](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7)
 
 </div>
 

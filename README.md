@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Astr0-G&theme=dark&hide_border=true" width = 500 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Astr0-G&theme=codeSTACKr&hide_border=true" width = 500 />
 </p>
 
 ##

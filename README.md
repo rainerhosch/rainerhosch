@@ -9,16 +9,11 @@
   <img src = "https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500 />
 </p>
 
-##
-
-<!-- <p align="center">
+<p align="center">
   <a>
-      <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=5" />
+      <img src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astr0-G&theme=dark&hide_border=true&hide=javascript,css,scss,html">
 </p>
-
-## -->
 
 &nbsp;<div align="center">
 [![Spotify](https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7)

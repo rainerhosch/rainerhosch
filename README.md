@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <img src = "https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=FE0034&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500 />
+  <img src = "https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500 />
 </p>
 
 ##

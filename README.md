@@ -24,7 +24,7 @@
 </div align="flex">
 
 &nbsp;<div media="(prefers-color-scheme: dark)" align="center">
-[![know me more](know me more)](https://gewang.wiki)
+[know me more](https://gewang.wiki)
 
 <a href=""><div></div></a>
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>

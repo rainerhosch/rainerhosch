@@ -1,8 +1,4 @@
-<!-- <p>
-   <h5 align="center">
-   <i>👿 My Motto is Tech 👿</i>
-  </h5>
-</p> -->
+
 
 <p align="center">
   <picture>

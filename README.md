@@ -10,7 +10,7 @@
 
 <p align="center">
   <a>
-      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,firebase,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25" />
+      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,gcp,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25" />
   </a>
 </p>
 

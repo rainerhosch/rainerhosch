@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>

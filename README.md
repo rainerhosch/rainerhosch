@@ -1,5 +1,11 @@
 
-
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Astr0-G&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Astr0-G&hide_border=true&background=FFFFFF&ring=FE0034&fire=FE0034&currStreakLabel=FE0034" width = 500>
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
+</picture>
+</p>
 
 
 

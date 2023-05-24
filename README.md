@@ -16,10 +16,10 @@
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
   <a href="https://github.com/Astr0-G">
-    <img src="https://github.com/Astr0-G/Astr0-G/assets/57165451/5114b3d7-bdea-4805-bb46-c81d3bb72a85" width="260" height="auto" alt="Astr0-G profile picture" style="vertical-align: top; margin-left: 15px"     />
+    <img src="https://github.com/Astr0-G/Astr0-G/assets/57165451/5114b3d7-bdea-4805-bb46-c81d3bb72a85" width="150" height="auto" alt="Astr0-G profile picture" style="vertical-align: top; margin-left: 15px"     />
   </a>
   <a href="https://github.com/Astr0-G">
-    <img src="https://github.com/Astr0-G/Astr0-G/assets/57165451/3e8a5470-8ebf-4b81-9a60-9f7b9b8e0913" width="auto" height="180" alt="Astr0-G profile picture" style="vertical-align: top; margin-left: 15px"     />
+    <img src="https://github.com/Astr0-G/Astr0-G/assets/57165451/3e8a5470-8ebf-4b81-9a60-9f7b9b8e0913" width="auto" height="130" alt="Astr0-G profile picture" style="vertical-align: top; margin-left: 15px"     />
   </a>
 </div>
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>

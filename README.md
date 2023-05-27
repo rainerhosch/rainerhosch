@@ -1,5 +1,5 @@
 <style>
-  img>.profile-ig {
+  .profile-ig {
     margin-bottom:1.5rem;
   }
 </style>

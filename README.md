@@ -1,8 +1,3 @@
-<style>
-  .profile-ig {
-    margin-bottom:1.5rem;
-  }
-</style>
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rzoktan&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
@@ -23,7 +18,7 @@
     <img src="/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
   </a>
   <a href="https://www.instagram.com/rz.oktan/">
-    <img class="profile-ig" src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="100" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
+    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
   </a>
 </div>
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>

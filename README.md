@@ -15,7 +15,7 @@
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
   <a href="https://www.instagram.com/rz.oktan/">
-    <img src="https://github.com/rzoktan/rzoktan/blob/0b78f801aee03ba4b60e3f416282cd8ced0b2234/assets/images/ig320.svg" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px"/>
+    <img src="https://raw.githubusercontent.com/rzoktan/rzoktan/master/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px"/>
   </a>
   <a href="https://github.com/rzoktan">
     <img src="https://github.com/rzoktan/rzoktan/assets/57165451/3e8a5470-8ebf-4b81-9a60-9f7b9b8e0913" width="auto" height="130" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px"     />

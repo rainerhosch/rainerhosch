@@ -15,10 +15,10 @@
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
   <a href="https://github.com/rz.oktan/rz.oktan">
-    <img src="#" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px"/>
+    <img src="/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
   </a>
   <a href="https://www.instagram.com/rz.oktan/">
-    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="100" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px"     />
+    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="100" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px; margin-bottom: 1.5rem;"/>
   </a>
 </div>
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>

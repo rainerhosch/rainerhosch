@@ -1,8 +1,8 @@
- {
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "https://github.com/Astr0-G"
-    }
-  ]
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://github.com/rzoktan"
+        }
+    ]
 }

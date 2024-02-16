@@ -24,5 +24,3 @@
 <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight)
-
-![github contribution](https://raw.githubusercontent.com/rainerhosch/rzoktan/d1aa04c78f40508563b364854d41d816a8bac8aa/github-contribution-grid-snake-dark.svg)

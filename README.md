@@ -14,8 +14,8 @@
   <a href="https://open.spotify.com/playlist/0SF7WgNNHC0ALU0a3IGmT7">
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=0d1117" />
   </a>
-  <a href="https://github.com/rz.oktan/rz.oktan">
-    <img src="/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/>
+<!--   <a href="https://github.com/rz.oktan/rz.oktan">
+    <img src="/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/> -->
   </a>
   <a href="https://www.instagram.com/rz.oktan/" target="_blank">
     <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>

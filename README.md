@@ -25,5 +25,5 @@
   <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
 </div>
 <div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight)
 </div>
+  ![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight)

@@ -27,5 +27,5 @@
 <hr>
 <h2>Github Stats</h2>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut&theme=tokyonight)
 ![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight)

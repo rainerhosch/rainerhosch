@@ -1,7 +1,14 @@
 
-<h1 align="center">👋 Hello World !  <img src="https://raw.githubusercontent.com/rainerhosch/rainerhosch/refs/heads/main/assets/images/Earth.gif" width="24px"> I'm Rizky Oktan </h1>
+<h1 align="center">👋 Hello World !  <img src="https://raw.githubusercontent.com/rainerhosch/rainerhosch/refs/heads/main/assets/images/Earth.gif" width="24px"> I'm Rizky Oktan
+</h1>
   
 <h5 align="center"> :heart: Programming | :black_heart: K-Drama | :blue_heart: Anime </h5>
+
+
+<h5 align="center">Visitor's count :eyes:</h5>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" />
+</p>
 <div align="center">
   <a href="https://open.spotify.com/playlist/3Ds5rNkwD81PzP4732D1KE">
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=2325f" />
@@ -23,18 +30,16 @@
 </p>
 <p align="center">
   <a>
-      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,gcp,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25" />
+      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,solidity,python,php,cpp,java,golang,dart,flutter,html,css,react,nextjs,express,laravel,jquery,firebase,mongodb,elasticsearch,mysql,sqlite,vscode,androidstudio,arduino,postman,tensorflow,docker,gcp,aws,ipfs,vercel,tailwind,bootstrap,discord,npm,yarn,git,github,gitlab,md,xd,pr,ae,ps,windows,linux,ubuntu,kali&theme=dark&perline=25" />
   </a>
 </p>
 <hr>
-<h3 align="center">Visitor's count :eyes:</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" /></p>
 
-<h2 align="center"> Achievement :trophy:</h2>
+<h3 align="center"> Achievement :trophy:</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rainerhosch&theme=onedark&row=2&column=4" alt="Rizky Oktan :: Top Langs" /></p>
 
 <!-- <h2>Github Stats</h2> -->
-<h2 align="center">Github stats :bar_chart:</h2>
+<h3 align="center">Github stats :bar_chart:</h3>
 
 <p align='left'><img  width="350" src="https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight" alt="Rizky Oktan :: Detail" />
 <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight" alt="Rizky Oktan :: Streak Stat" /></p>

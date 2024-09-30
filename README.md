@@ -31,7 +31,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" /></p>
 
 <h2 align="center"> Achievement :trophy:</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rainerhosch&theme=onedark" alt="Rizky Oktan :: Top Langs" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rainerhosch&theme=onedark&row=2&column=4" alt="Rizky Oktan :: Top Langs" /></p>
 
 <!-- <h2>Github Stats</h2> -->
 <h2 align="center">Github stats :bar_chart:</h2>

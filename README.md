@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Rizky Oktan </h1>
   
-<h5 align="center"> :heart: Programming | :black_heart: K-pop | :blue_heart: Anime </h5>
+<h5 align="center"> :heart: Programming | :black_heart: K-Drama | :blue_heart: Anime </h5>
 <div align="center">
   <a href="https://open.spotify.com/playlist/3Ds5rNkwD81PzP4732D1KE">
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=2325f" />

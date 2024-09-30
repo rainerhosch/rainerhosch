@@ -1,4 +1,19 @@
-<h2 align="center">Tech Stack :electron: </h2>
+
+<h1 align="center">👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Rizky Oktan </h1>
+  
+<h5 align="center"> :heart: Programming | :black_heart: K-pop | :blue_heart: Anime </h5>
+<div align="center">
+  <a href="https://open.spotify.com/playlist/3Ds5rNkwD81PzP4732D1KE">
+    <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=2325f" />
+  </a>
+  </a>
+  <a href="https://www.instagram.com/rz.oktan/" target="_blank">
+    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
+  </a>
+  <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
+</div>
+
+<h3 align="center">Tech Stack :electron: </h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rzoktan&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
@@ -11,18 +26,8 @@
       <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,vscode,linux,java,html,python,golang,css,react,nextjs,gcp,aws,vercel,tailwind,selenium,discord,github,md,xd,pr,ae,ps&theme=dark&perline=25" />
   </a>
 </p>
-<div align="center">
-  <a href="https://open.spotify.com/playlist/3Ds5rNkwD81PzP4732D1KE">
-    <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=2325f" />
-  </a>
-  </a>
-  <a href="https://www.instagram.com/rz.oktan/" target="_blank">
-    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
-  </a>
-  <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
-</div>
 <hr>
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">Visitor's count :eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" /></p>
 
 <h2 align="center"> Achievement :trophy:</h2>

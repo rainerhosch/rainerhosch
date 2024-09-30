@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Rizky Oktan </h1>
+<h1 align="center">👋 Hello World !  <img src="https://raw.githubusercontent.com/rainerhosch/rainerhosch/refs/heads/main/assets/images/Earth.gif" width="24px"> I'm Rizky Oktan </h1>
   
 <h5 align="center"> :heart: Programming | :black_heart: K-Drama | :blue_heart: Anime </h5>
 <div align="center">

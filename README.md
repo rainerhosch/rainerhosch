@@ -1,3 +1,4 @@
+<h2 align="center">Tech Stack :electron: </h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rzoktan&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
@@ -11,13 +12,9 @@
   </a>
 </p>
 <div align="center">
-<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3Ds5rNkwD81PzP4732D1KE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<div align="center"> -->
   <a href="https://open.spotify.com/playlist/3Ds5rNkwD81PzP4732D1KE">
     <img media="(prefers-color-scheme: dark)" src="https://spodify.gewang.wiki/api/spotify?background_color=0d1117&border_color=2325f" />
   </a>
-<!--   <a href="https://github.com/rz.oktan/rz.oktan">
-    <img src="/assets/images/ig320.svg?example=foo&sanitize=true" width="150" height="auto" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;  margin-bottom: 1.5rem;"/> -->
   </a>
   <a href="https://www.instagram.com/rz.oktan/" target="_blank">
     <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
@@ -25,7 +22,31 @@
   <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
 </div>
 <hr>
-<h2>Github Stats</h2>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut&theme=tokyonight)
+<h2 align="center"> Achievement :trophy:</h2>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rainerhosch&theme=onedark" alt="Rizky Oktan :: Top Langs" /></p>
+
+<!-- <h2>Github Stats</h2> -->
+<h2 align="center">Github stats :bar_chart:</h2>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight)](https://git.io/streak-stats)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerhosch&langs_count=10&theme=tokyonight&layout=donut" alt="Rizky Oktan :: Top Langs" /></p>
+
+
+---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/rz._.ar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
+⭐️ From [@Rizky Oktan](https://github.com/rainerhosch)
+

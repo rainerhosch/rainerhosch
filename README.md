@@ -36,21 +36,21 @@
 <!-- <h2>Github Stats</h2> -->
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight" alt="Rizky Oktan :: Detail" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight" alt="Rizky Oktan :: Streak Stat" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerhosch&langs_count=10&theme=tokyonight&layout=donut" alt="Rizky Oktan :: Top Langs" /></p>
+<p align='left'><img  width="450" src="https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight" alt="Rizky Oktan :: Detail" />
+<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight" alt="Rizky Oktan :: Streak Stat" /></p>
+<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerhosch&langs_count=10&theme=tokyonight&layout=donut" alt="Rizky Oktan :: Top Langs" /></p>
 
 
 ---
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
 <a href="https://x.com/onchainmfer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/rizky-ardiansyah-5ba6b9289/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/rz._.ar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+</div>
 
 ⭐️ From [@Rizky Oktan](https://github.com/rainerhosch)
 

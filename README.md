@@ -37,9 +37,10 @@
 <!-- <h2>Github Stats</h2> -->
 <h3 align="center">Github stats :bar_chart:</h3>
 
-<p align='left'><img  width="350" src="https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight" alt="Rizky Oktan :: Detail" />
-<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight" alt="Rizky Oktan :: Streak Stat" /></p>
-<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerhosch&langs_count=10&theme=tokyonight&layout=donut" alt="Rizky Oktan :: Top Langs" /></p>
+<p align='center'><img  width="350" src="https://github-readme-stats.vercel.app/api?username=rainerhosch&count_private=true&show_icons=true&theme=tokyonight" alt="Rizky Oktan :: Detail" />
+<!-- <img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=rainerhosch&&theme=tokyonight" alt="Rizky Oktan :: Streak Stat" /></p> -->
+<p align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerhosch&langs_count=8&theme=tokyonight&layout=donut" alt="Rizky Oktan :: WakaTime stats" />
+
 
 
 ---

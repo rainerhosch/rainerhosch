@@ -6,12 +6,9 @@
 
 
 <h5 align="center">Visitor's count :eyes:</h5>
-<!-- Visitor count (Glitch no longer works). 
-You can use alternatives like https://count.getloli.com or https://komarev.com, or create your own API.
-Here is an example with getloli: -->
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@rainerhosch?theme=random" alt="Rizky Oktan :: Visitor's Count" />
+  <img src="https://count.getloli.com/get/@rainerhosch?theme=love-and-deepspace" alt="Rizky Oktan :: Visitor's Count" /> 
 </p>
 
 <!-- 

@@ -2,13 +2,25 @@
 <h1 align="center">👋 Hello World !  <img src="https://raw.githubusercontent.com/rainerhosch/rainerhosch/refs/heads/main/assets/images/Earth.gif" width="24px"> I'm Rizky Oktan
 </h1>
   
-<h5 align="center"> :heart: Programming | :black_heart: K-Drama | :blue_heart: Anime </h5>
+<h5 align="center"> :heart: Programming | :black_heart: DRACIN | :blue_heart: Anime </h5>
 
 
 <h5 align="center">Visitor's count :eyes:</h5>
+<!-- Visitor count (Glitch no longer works). 
+You can use alternatives like https://count.getloli.com or https://komarev.com, or create your own API.
+Here is an example with getloli: -->
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{rainerhosch}/count.svg" alt="Rizky Oktan :: Visitor's Count" />
+  <img src="https://count.getloli.com/get/@rainerhosch?theme=random" alt="Rizky Oktan :: Visitor's Count" />
 </p>
+
+<!-- 
+Other alternatives:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rainerhosch&color=blue&label=Profile+Views" alt="Rizky Oktan :: Visitor's Count Komarev" />
+</p>
+-->
 <div align="center">
   <a href="https://www.instagram.com/rz._.ar/" target="_blank">
     <img src="https://github.com/rainerhosch/rainerhosch/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rainerhosch profile picture" style="vertical-align: top; margin-left: 15px;"/>

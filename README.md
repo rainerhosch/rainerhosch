@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   <a href="https://www.instagram.com/rz._.ar/" target="_blank">
-    <img src="https://github.com/rzoktan/rzoktan/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rzoktan profile picture" style="vertical-align: top; margin-left: 15px;"/>
+    <img src="https://github.com/rainerhosch/rainerhosch/blob/main/assets/images/ig240.png" width="auto" height="133" alt="rainerhosch profile picture" style="vertical-align: top; margin-left: 15px;"/>
   </a>
   <img src="https://record.gewang.wiki/entry/1/" onError="this.style.display = 'none';" alt=""/>
 </div>
@@ -19,8 +19,8 @@
 <h3 align="center">Tech Stack :electron: </h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rzoktan&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rzoktan&hide_border=true&background=FFFFFF&ring=FE0034&fire=FE0034&currStreakLabel=FE0034" width = 500>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rainerhosch&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=FE0034&fire=FE0034&currStreakLabel=EBEBEB" width = 500>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rainerhosch&hide_border=true&background=FFFFFF&ring=FE0034&fire=FE0034&currStreakLabel=FE0034" width = 500>
     <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="">
   </picture>
 </p>

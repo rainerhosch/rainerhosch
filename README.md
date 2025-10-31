@@ -35,7 +35,7 @@ Other alternatives:
 </p>
 <p align="center">
   <a>
-      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,solidity,python,php,cpp,java,golang,dart,flutter,html,css,react,nextjs,express,laravel,jquery,firebase,mongodb,elasticsearch,mysql,sqlite,vscode,androidstudio,arduino,postman,tensorflow,docker,gcp,aws,ipfs,vercel,tailwind,bootstrap,discord,npm,yarn,git,github,gitlab,md,xd,pr,ae,ps,windows,linux,ubuntu,kali&theme=dark&perline=25" />
+      <img media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=nodejs,js,ts,python,php,go,flutter,solidity,react,nextjs,express,fastapi,html,css,bootstrap,tailwind,laravel,jquery,firebase,mongodb,elasticsearch,mysql,sqlite,vscode,androidstudio,arduino,postman,tensorflow,pytorch,docker,cloudflare,gcp,aws,ipfs,vercel,nginx,discord,npm,yarn,git,github,gitlab,xd,pr,ae,ps,windows,linux,ubuntu,kali&theme=dark&perline=25" />
   </a>
 </p>
 <hr>
